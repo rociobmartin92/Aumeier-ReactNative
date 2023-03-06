@@ -20,7 +20,7 @@ iOS:
 
 $ yarn ios:pod && yarn ios
 
-
+,
 
 <img width="200" alt="1" src="https://user-images.githubusercontent.com/77502194/219876989-22cc681b-96cd-4386-b0db-dee923f0981d.png">
 <img width="200" alt="2" src="https://user-images.githubusercontent.com/77502194/219877002-1e063ada-d309-4ec8-a9f8-286e9ecde6c9.png">
